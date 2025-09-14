@@ -1,0 +1,5 @@
+.env
+__pycache__/
+debug/
+examples/results.csv
+submission_debug.zip
